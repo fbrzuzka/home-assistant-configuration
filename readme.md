@@ -10,3 +10,6 @@ https://www.duckdns.org/login-google?state=uhiuhogyufowaeohawhesauoi&code=4%2F0A
 http://jkrod.duckdns.org/
 
 ![image](https://github.com/fbrzuzka/home-assistant-configuration/assets/8392787/104170d6-cf94-4b83-94b3-576824c2e8dc)
+
+
+https://community.home-assistant.io/t/install-ha-on-old-laptop-without-uefi/407443/38
