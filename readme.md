@@ -13,3 +13,7 @@ http://jkrod.duckdns.org/
 
 
 https://community.home-assistant.io/t/install-ha-on-old-laptop-without-uefi/407443/38
+
+
+router pdf config
+https://www.polsatbox.pl/Edimax_LT-6408n_instrukcja_obslugi.pdf
